@@ -2,7 +2,9 @@
 
 基于科大讯飞语音识别键盘
 
-![](https://github.com/ofEver/OEVoiceKeyboard/blob/master/screenshot/example.gif)
+![alt](https://github.com/ofEver/OEVoiceKeyboard/blob/master/screenshot/example.gif)
+
+
 ####示例:
 
 导入头文件：
@@ -25,6 +27,8 @@ textField.enableVoiceKeyboard = YES;
 支持 storyboard 设置
 
 ![alt](https://github.com/ofEver/OEVoiceKeyboard/blob/master/screenshot/set.png)
+
+
 ##注意：
 基于科大讯飞SDK使用请设置正确的Appid并导入相应.framework
 
